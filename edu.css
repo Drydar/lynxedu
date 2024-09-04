@@ -1,0 +1,72 @@
+body {
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(204, 212, 180); 
+}
+
+header {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: normal;
+    background-color: rgb(204, 212, 180); 
+    color: #111;
+    text-align: center;
+    padding: 3px;
+}
+
+header1 nav ul {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: light;
+    list-style-type: 0;
+    margin: 0;
+    padding: 8px;
+    background-color: rgb(204, 212, 180);
+    text-align: center;
+}
+
+header1 nav ul li {
+    display: inline;
+    margin-right: 0px 0px;
+}
+
+header1 nav ul li a {
+    color: #111;
+    text-decoration: none;
+    padding: 2px 2px ;
+}
+
+section {
+    font-family:monospace;
+    font-size: 11px;
+    padding: 10px;
+    margin: 0px;
+    background-color: rgb(204, 212, 180); 
+    border: 2px none #fff;
+    border-color: none;
+    text-align: center;
+}
+
+button{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(6, 34, 29);
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    color:azure;
+}
+
+footer {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 11px;
+    background-color: rgb(204, 212, 180); 
+    color: #111;
+    text-align: right;
+    padding: 10px;
+}
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
